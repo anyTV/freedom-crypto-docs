@@ -2,9 +2,9 @@
 
 **Inactive status**
 
-![](https://github.com/anyTV/freedom-crypto-miner/raw/master/images/mining1.png) ![](https://github.com/anyTV/freedom-crypto-miner/raw/master/images/mining2.png)
+![](https://github.com/anyTV/freedom-crypto-docs/raw/master/images/mining1.png) ![](https://github.com/anyTV/freedom-crypto-docs/raw/master/images/mining2.png)
 
 
 **Active status**
 
-![](https://github.com/anyTV/freedom-crypto-miner/raw/master/images/mining3.png) ![](https://github.com/anyTV/freedom-crypto-miner/raw/master/images/mining4.png)
+![](https://github.com/anyTV/freedom-crypto-docs/raw/master/images/mining3.png) ![](https://github.com/anyTV/freedom-crypto-docs/raw/master/images/mining4.png)

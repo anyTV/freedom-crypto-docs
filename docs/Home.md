@@ -22,18 +22,18 @@ The latest release of the app can be found [https://github.com/anyTV/freedom-cry
 ## Installation
 1. You would see this screen the first time you install the app, don't worry, we're still working on signing the binary
 
-* ![](https://github.com/anyTV/freedom-crypto-miner/raw/master/images/home1.png)
+* ![](https://github.com/anyTV/freedom-crypto-docs/raw/master/images/home1.png)
 
 * Click on More Info
-* ![](https://github.com/anyTV/freedom-crypto-miner/raw/master/images/home2.png)
+* ![](https://github.com/anyTV/freedom-crypto-docs/raw/master/images/home2.png)
 * Click on Run anyway
 Wait till the installation is completed
 Accept the terms and condition (Ignore the fact that it is for Content ID)
 
 Mining would automatically start
 # Features
-* [Freedom! Accounts](https://github.com/anyTV/freedom-crypto-miner/wiki/Freedom!-Accounts)
-* [Mining](https://github.com/anyTV/freedom-crypto-miner/wiki/Mining)
-* [Configuration](https://github.com/anyTV/freedom-crypto-miner/wiki/Configuration)
-* [Benchmarking](https://github.com/anyTV/freedom-crypto-miner/wiki/Benchmarking)
-* [Estimated Earnings](https://github.com/anyTV/freedom-crypto-miner/wiki/Estimated-Earnings)
+* [Freedom! Accounts](https://github.com/anyTV/freedom-crypto-docs/wiki/Freedom!-Accounts)
+* [Mining](https://github.com/anyTV/freedom-crypto-docs/wiki/Mining)
+* [Configuration](https://github.com/anyTV/freedom-crypto-docs/wiki/Configuration)
+* [Benchmarking](https://github.com/anyTV/freedom-crypto-docs/wiki/Benchmarking)
+* [Estimated Earnings](https://github.com/anyTV/freedom-crypto-docs/wiki/Estimated-Earnings)
