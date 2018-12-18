@@ -1,5 +1,5 @@
 <p align="center" id="notice">
-We are rolling over your crypto earnings to next month so we get a better price when crypto prices recover.
+Starting Nov, 2018, we are rolling over your crypto earnings to next month so we get a better price when crypto prices recover.
 </p>
 <h3 id="header-text">A new revenue stream for the entire Freedom! Family</h3>
 <p align="center">
