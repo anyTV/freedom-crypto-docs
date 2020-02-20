@@ -1,6 +1,6 @@
 <h3 id="header-text">A new revenue stream for the entire Freedom! Family</h3>
 <p align="center">
-  <a class="download-btn" href="https://goto.tm/crypto-miner">Download Ignis (Windows 64-bit)</a><br/>
+  <a class="download-btn" href="https://goto.tm/crypto-miner" target="_blank">Download Ignis (Windows 64-bit)</a><br/>
 </p>
 <p align="center">
   <div style="position:relative;height:0;padding-bottom:56.21%"><iframe src="https://www.youtube.com/embed/IWib9tby_1E?list=PLxLYo5_7D3SeXt64Fozsx83iKrD_COggW&amp;ecver=2" style="position:absolute;width:100%;height:100%;left:0" width="641" height="360" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe></div>
